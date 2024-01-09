@@ -19,6 +19,7 @@
     <li><strong>Documents</strong> has detailed project deliverables such as reports and presentation slides.</li>
     <li><strong>Model</strong> contains the data scraping and model logic as <strong>.ipynb</strong> Python notebook files.</li>
   </ul>
+  <p><strong>Google Colab</strong> was the main environment used to develop the model.</p>
   
   <h2>:warning: Disclaimers</h2>
   <p>
