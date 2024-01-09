@@ -14,25 +14,17 @@
   </ul>
 
   <h2>:file_folder: Contents</h2>
-  <p>:</p>
+  <p>There are two files within the <strong>Main</strong> file:</p>
   <ul>
-    <li><strong> </strong> .</li>
-    <li><strong> </strong> .</li>
-    <li><strong> </strong> .</li>
-    <li><strong> </strong> .</li>
-    <li><strong> </strong> .</li>
+    <li><strong>Documents</strong> has detailed project deliverables such as reports and presentation slides.</li>
+    <li><strong>Model</strong> contains the data scraping and model logic as <strong>.ipynb</strong> Python notebook files.</li>
   </ul>
-
-  <h2>:arrow_down: Installation</h2>
-  <p>
-    
-  </p>
   
   <h2>:warning: Disclaimers</h2>
   <p>
     
   </p>
   <h2></h2>
-  <h3> Enjoy </h3>
+  <h3>:: Enjoy ::</h3>
 </body>
 </html>
