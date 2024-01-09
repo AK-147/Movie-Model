@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
 </head>
 <body>
-  <img src="" alt="Banner"/>
+  <img src="https://github.com/AK-147/Movie-Model/blob/main/Movie%20Model%20Banner.png?raw=true" alt="Banner"/>
   
   <h2>:book: Description</h2>
   <ul>
