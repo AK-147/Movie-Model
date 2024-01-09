@@ -22,9 +22,13 @@
   
   <h2>:warning: Disclaimers</h2>
   <p>
-    
+    Given that the raw code was not listed as part of the deliverables in the project and with a strict deadline, the cleanliness of
+    it was not of high priority. As a result, most of the data collection and web scraping is organized in a minimalistic fashion with
+    little explanation of the code. Additionally, this project was completed through collaboration as part of a team of four and their
+    names have been replaced with their initials to keep them anonymous but still acknowledge their contributions. Their work and effort
+    is greatly appreciated as this project would not have been possible otherwise. 
   </p>
   <h2></h2>
-  <h3>:: Enjoy ::</h3>
+  <h3>:clapper::movie_camera: Enjoy :film_projector::performing_arts:</h3>
 </body>
 </html>
