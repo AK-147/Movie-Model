@@ -14,10 +14,10 @@
   </ul>
 
   <h2>:file_folder: Contents</h2>
-  <p>There are two files within the <strong>Main</strong> file:</p>
+  <p>There are two files within the <strong><a href="https://github.com/AK-147/Movie-Model/tree/main/Main">Main</a></strong> file:</p>
   <ul>
-    <li><strong>Documents</strong> has detailed project deliverables such as reports and presentation slides.</li>
-    <li><strong>Model</strong> contains the data scraping and model logic as <strong>.ipynb</strong> Python notebook files.</li>
+    <li><strong><a href="https://github.com/AK-147/Movie-Model/tree/main/Main/Documents">Documents</a></strong> has detailed project deliverables such as reports and presentation slides.</li>
+    <li><strong><a href="https://github.com/AK-147/Movie-Model/tree/main/Main/Model">Model</a></strong> contains the data scraping and model logic as <strong>.ipynb</strong> Python notebook files.</li>
   </ul>
   <p><strong>Google Colab</strong> was the main environment used to develop the model.</p>
   
